@@ -4,7 +4,7 @@
 
 Export do progressbar
 ```lua
-    exports['fc-hud']:startProgbar('tekst', czas)
+exports['fc-hud']:startProgbar('tekst', czas)
 ```
 
 Export do notify
