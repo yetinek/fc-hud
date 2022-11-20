@@ -10,6 +10,8 @@ exports['fc-hud']:startProgbar('tekst', czas)
 Export do notify
 ```lua
  exports['fc-hud']:addNotification('tekst')
+
+
 TriggerClientEvent("powiadomienie", source, "Trwałość przedmiotu jest wyczerpana")
  ```
  
