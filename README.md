@@ -1,10 +1,6 @@
 # fc-hud
 
 
-Wymagane Skrypty
-vSync
-ox_fuel
-
 
 Export do progressbar
 ```lua
